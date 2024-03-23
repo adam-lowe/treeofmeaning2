@@ -10,5 +10,6 @@
   .nav-tabs .nav-link.active {
     background-color: #f2af29;
     color: #000; /* Optional: Change text color for active tab */
+    border-color: #f2af29;
   }
   
