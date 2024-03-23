@@ -3,6 +3,13 @@
     max-height: 10%;
 }
 
+#spacer {
+  background-color: #f2af29;
+  padding-top: 1%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .nav-tabs-container {
     background-color: #646e78;
   }
