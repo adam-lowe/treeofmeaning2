@@ -14,8 +14,12 @@
   border-bottom-width: 0px;
 }
 
-.nav-tabs-container {
+#top-nav-container {
     background-color: #646e78;
+  }
+  
+#bottom-nav-container {
+    background-color: #acbfd3;
   }
   
   .nav-tabs .nav-link.active {
