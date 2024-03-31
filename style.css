@@ -28,6 +28,10 @@
     padding-top: 25%;
     padding-bottom: 25%;
   }
+
+  #header-subtitle {
+    font-size: small;
+  }
   
 .nav-tabs .nav-link.active {
     background-color: #f2af29;
