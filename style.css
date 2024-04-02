@@ -33,6 +33,10 @@
     font-size: small;
   }
 
+  .quote {
+    font-weight: bolder; 
+  }
+
   .navbar {
     background-color: #060e3b !important;
   }
