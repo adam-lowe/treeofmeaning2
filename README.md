@@ -2,7 +2,7 @@
 
 Things to work on-
 
-Add subtitle beaneath header title
+*Add subtitle beaneath header title*
 
 Make nav header blue
 
