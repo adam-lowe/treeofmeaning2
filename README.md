@@ -4,7 +4,7 @@ Things to work on-
 
 *Add subtitle beaneath header title*
 
-Make nav header blue
+*Make nav header blue*
 
 Working tabs
 

@@ -32,8 +32,12 @@
   #header-subtitle {
     font-size: small;
   }
+
+  .navbar {
+    background-color: #060e3b !important;
+  }
   
-.nav-tabs .nav-link.active {
+  .nav-tabs .nav-link.active {
     background-color: #f2af29;
     color: #000; /* Optional: Change text color for active tab */
     border-color: #f2af29;
