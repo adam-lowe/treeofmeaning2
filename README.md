@@ -8,7 +8,7 @@ Things to work on-
 
 Working tabs
 
-Recreate quotes as normal text
+*Recreate quotes as normal text*
 
 Mobile View
 
