@@ -6,7 +6,7 @@ Things to work on-
 
 *Make nav header blue*
 
-Working tabs
+Working tabs - PROGRESS - Move to accordian instead, fits end goal better than collapsable
 
 *Recreate quotes as normal text*
 
