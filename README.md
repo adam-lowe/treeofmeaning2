@@ -10,6 +10,8 @@ Things to work on-
 
 *Recreate quotes as normal text*
 
-Mobile View
+Mobile View - PROGRESS
+
+    - Want to make vertical tabs look more in style with fullscreen version
 
 Further desc on Fonts and color scheme
