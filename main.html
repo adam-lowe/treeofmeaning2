@@ -20,29 +20,44 @@
       </div>
     </div>
   </nav>
-  <div id="top-nav-container" class="nav-tabs-container" role="navigation">
-    <div class="container">
-      <div class="row">
-        <ul id="navheader" class="nav nav-tabs">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" data-bs-toggle="tab"  href="#about-content" role="button" aria-controls="about-content">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" aria-current="page" data-bs-toggle="tab"  href="#contact-content" role="button" aria-controls="contact-content">Contact</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-          </li>
-        </ul>
+  <div class="d-block d-lg-none">
+      <div class="container">
+        <div class="row">
+          <ul class="nav flex-column">
+            <li><a class="nav-link active" href="#about-content" aria-current="page" data-bs-toggle="tab">About</a></li>
+            <li><a class="nav-link" href="#contact-content" data-bs-toggle="tab">Contact</a></li>
+            <!-- Other options -->
+          </ul>
+        </div>
+      </div>
+  </div>
+  
+  <div class="d-none d-lg-block">
+    <div id="top-nav-container" class="nav-tabs-container" role="navigation">
+      <div class="container">
+        <div class="row">
+          <ul id="navheader" class="nav nav-tabs">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" data-bs-toggle="tab"  href="#about-content" role="button" aria-controls="about-content">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" data-bs-toggle="tab"  href="#contact-content" role="button" aria-controls="contact-content">Contact</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
-  </div>
-  <div id="spacer" class="nav-tabs-container">
+    <div id="spacer" class="nav-tabs-container">
 
+    </div>
   </div>
+
   <div id="about-content" class="collapse show">
     <div class="container">
       <div class="row">
