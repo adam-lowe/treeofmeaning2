@@ -1,6 +1,6 @@
 # treeofmeaning2
 
-[https://adam-lowe.github.io/treeofmeaning2/](Preview)
+[Preview](https://adam-lowe.github.io/treeofmeaning2/)
 
 Things to work on-
 
