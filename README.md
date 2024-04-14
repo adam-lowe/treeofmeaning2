@@ -16,10 +16,17 @@ Mobile View - PROGRESS
 
     - Want to make vertical tabs look more in style with fullscreen version (Yellow background, darken color on hover)
 
-Issue: Subtitle text not wrapping on mobile view?
+*Add placeholder text to properly test scrolling on the site*
 
-Add placeholder text to properly test scrolling on the site
+Swap the colors to match the tabs (no yellow)
+
+Make a more clear difference between tabs
 
 Add 2 more links- GET FEEDBACK ON WHAT THESE ARE FIRST
 
 Further desc on Fonts and color scheme
+
+Issues 
+
+    - Subtitle text not wrapping on mobile view?
+    - White space beneath content?
