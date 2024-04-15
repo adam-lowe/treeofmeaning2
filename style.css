@@ -4,7 +4,7 @@
 }
 
 #spacer {
-  background-color: #f2af29;
+  background-color: #acbfd3;
   padding-top: 1%;
   margin-left: 0;
   margin-right: 0;
@@ -15,7 +15,7 @@
 }
 
 #top-nav-container {
-    background-color: #acbfd3;
+    background-color: #82a3c7;
   }
   
 #bottom-nav-container {
@@ -42,8 +42,8 @@
   }
   
   .nav-tabs .nav-link.active {
-    background-color: #f2af29;
+    background-color: #acbfd3;
     color: #000; /* Optional: Change text color for active tab */
-    border-color: #f2af29;
+    border-color: #acbfd3;
   }
   
