@@ -33,12 +33,12 @@
     font-size: small;
   }
 
-  .quote {
-    font-weight: bolder; 
+  #header-band {
+    background-color: #060e3b;
   }
 
-  .navbar {
-    background-color: #060e3b !important;
+  .quote {
+    font-weight: bolder; 
   }
   
   .nav-tabs .nav-link.active {
