@@ -18,9 +18,9 @@ Mobile View - PROGRESS
 
 *Add placeholder text to properly test scrolling on the site*
 
-Swap the colors to match the tabs (no yellow)
+*Swap the colors to match the tabs (no yellow)*
 
-Make a more clear difference between tabs
+*Make a more clear difference between tabs*
 
 Add 2 more links- GET FEEDBACK ON WHAT THESE ARE FIRST
 
