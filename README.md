@@ -22,7 +22,7 @@ Mobile View - PROGRESS
 
 *Make a more clear difference between tabs*
 
-Add 2 more links- GET FEEDBACK ON WHAT THESE ARE FIRST
+Add 2 more links-
 
 Further desc on Fonts and color scheme
 
