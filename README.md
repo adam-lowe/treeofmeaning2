@@ -22,6 +22,8 @@ Mobile View - PROGRESS
 
 *Make a more clear difference between tabs*
 
+Make animation that plays when switching between pages
+
 Add 2 more links-
 
 Further desc on Fonts and color scheme
