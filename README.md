@@ -24,7 +24,7 @@ Mobile View - PROGRESS
 
 Make animation that plays when switching between pages
 
-Add 2 more links-
+*Add 2 more links-*
 
 Further desc on Fonts and color scheme
 
