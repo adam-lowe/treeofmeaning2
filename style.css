@@ -32,8 +32,9 @@
     font-size: small;
   }
 
-  #header-band {
-    background-color: #060e3b;
+  body {
+    background-color: #000034;
+
   }
 
   .tab-content {
