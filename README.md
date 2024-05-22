@@ -30,7 +30,7 @@ Fonts and colors make use of the following
 
 #000034
 
-#101846
+#97dddd
 
 #ff2f92
 
