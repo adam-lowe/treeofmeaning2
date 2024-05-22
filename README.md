@@ -26,7 +26,15 @@ Make animation that plays when switching between pages
 
 *Add 2 more links-*
 
-Further desc on Fonts and color scheme
+Fonts and colors make use of the following
+
+#000034
+
+#101846
+
+#ff2f92
+
+Font: Calibri
 
 Issues 
 
