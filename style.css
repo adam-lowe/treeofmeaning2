@@ -3,7 +3,7 @@
 }
 
 #spacer {
-  background-color: #97dddd;
+  background-color: #87b0d1;
   padding-top: 1%;
   margin-left: 0;
   margin-right: 0;
@@ -14,11 +14,11 @@
 }
 
 #top-nav-container {
-    background-color: #97dddd;
+    background-color: #87b0d1;
   }
   
 #bottom-nav-container {
-    background-color: #97dddd;
+    background-color: #87b0d1;
     padding-top: 2%;
     padding-bottom: 10%;
   }
@@ -58,8 +58,8 @@
   }
   
   .nav-tabs .nav-link.active {
-    background-color: #97dddd;
+    background-color: #87b0d1;
     color: #000; /* Optional: Change text color for active tab */
-    border-color: #97dddd;
+    border-color: #87b0d1;
   }
   
