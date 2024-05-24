@@ -34,7 +34,12 @@
 
   #header-band {
     background-color: #000034;
+    
 
+  }
+
+  .navbar-brand {
+    color: #ff2f92;
   }
 
   .tab-content {
