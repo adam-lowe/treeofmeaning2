@@ -43,6 +43,11 @@
 
   }
 
+  .main-col {
+    background-color: #acbfd3;
+    border-radius: 5%;
+  }
+
   .navbar-brand {
     color: #ff2f92;
     font-size: xx-large;
