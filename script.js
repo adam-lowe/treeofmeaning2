@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
       tab.addEventListener('click', function(e) {
         e.preventDefault();
   
-        const activeTabContent = document.querySelector(this.getAttribute('href'));
+        const activeTabContent = document.querySelector(e.getAttribute('href'));
         
         // Hide all tab contents
         tabContents.forEach(content => {
