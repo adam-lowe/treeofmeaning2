@@ -29,6 +29,10 @@
     text-align: justify;
   }
 
+  #big-main {
+    font-size: larger;
+  }
+
   #header-subtitle {
     font-size: small;
   }
