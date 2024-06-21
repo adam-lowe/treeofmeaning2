@@ -28,8 +28,16 @@
                   aria-controls="about-content">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" aria-current="page" data-bs-toggle="tab" href="#content-content" role="button"
-                  aria-controls="content-content">Content</a>
+                <div class="dropdown">
+                  <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Content
+                  </button>
+                  <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="#">Action</a></li>
+                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                  </ul>
+                </div>
               </li>
               <li class="nav-item">
                 <a class="nav-link" aria-current="page" data-bs-toggle="tab" href="#blog-content" role="button"
